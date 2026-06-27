@@ -56,7 +56,7 @@
 
 | Repo | Description |
 |------|-------------|
-| [crewai_agents_stufss](https://github.com/MORAWA-dev/crewai_agents_stufss) | CrewAI multi-agent experiments — music, books & travel recommendations |
+| [crewai-agents-experiments](https://github.com/MORAWA-dev/crewai-agents-experiments) | CrewAI multi-agent experiments — music, books & travel recommendations |
 | [data_science_learning_journey](https://github.com/MORAWA-dev/data_science_learning_journey) | My data science learning notebooks & exercises |
 
 ### 🎨 Web Apps & AI Tools
@@ -67,7 +67,7 @@
 | [vibe_music_by_your_mood](https://github.com/MORAWA-dev/vibe_music_by_your_mood) | Mood-based Spotify playlist suggester powered by AI |
 | [memes-generator](https://github.com/MORAWA-dev/memes-generator) | Random meme generator powered by AI Studio |
 | [NNN](https://github.com/MORAWA-dev/NNN) | AI-generated wild news & conspiracy stories (satire app) |
-| [Birthday-card-designer-](https://github.com/MORAWA-dev/Birthday-card-designer-) | Birthday card designer powered by Gemini |
+| [birthday-card-designer](https://github.com/MORAWA-dev/birthday-card-designer) | Birthday card designer powered by Gemini |
 | [ai_studio_apps](https://github.com/MORAWA-dev/ai_studio_apps) | Collection of experimental web apps built with Google AI Studio |
 | [watiqai](https://github.com/MORAWA-dev/watiqai) | AI-powered web application |
 
