@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ibrahim Kabore 👋</h1>
 
 <p align="center">
-  <b>Soil Scientist</b> · <b>GIS & Remote Sensing</b> · <b>AI/ML for Agriculture</b> · <b>Full-Stack Developer</b>
+  <b>Geospatial Data Scientist</b> · <b>Soil Spectroscopy & ML</b> · <b>Remote Sensing</b> · <b>AI for Agriculture</b>
 </p>
 
 <p align="center">
@@ -254,5 +254,3 @@
 <p align="left">
   <a href="https://github.com/MORAWA-dev"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
-
-> 🗽 *"Be greedy when others are fearful and be fearful when others are greedy."*
